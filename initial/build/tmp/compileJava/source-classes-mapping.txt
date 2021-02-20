@@ -1,0 +1,66 @@
+com/example/servingwebcontent/jpa/model/Category.java
+ com.example.servingwebcontent.jpa.model.Category
+com/example/servingwebcontent/jpa/model/Country.java
+ com.example.servingwebcontent.jpa.model.Country
+com/example/servingwebcontent/config/WebSecurityConfig.java
+ com.example.servingwebcontent.config.WebSecurityConfig
+com/example/servingwebcontent/jpa/model/abac/EntityAttribute.java
+ com.example.servingwebcontent.jpa.model.abac.EntityAttribute
+com/example/servingwebcontent/jpa/model/abac/engine/pip/PolicyInformationPoint.java
+ com.example.servingwebcontent.jpa.model.abac.engine.pip.PolicyInformationPoint
+ com.example.servingwebcontent.jpa.model.abac.engine.pip.PolicyInformationPoint$1
+com/example/servingwebcontent/jpa/model/SomeService.java
+ com.example.servingwebcontent.jpa.model.SomeService
+com/example/servingwebcontent/jpa/model/abac/annotaion/property/Id.java
+ com.example.servingwebcontent.jpa.model.abac.annotaion.property.Id
+com/example/servingwebcontent/ServingWebContentApplication.java
+ com.example.servingwebcontent.ServingWebContentApplication
+com/example/servingwebcontent/jpa/model/abac/attribute/type/EnvironmentType.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.EnvironmentType
+com/example/servingwebcontent/jpa/model/abac/Policy.java
+ com.example.servingwebcontent.jpa.model.abac.Policy
+com/example/servingwebcontent/jpa/repository/CustomerRepository.java
+ com.example.servingwebcontent.jpa.repository.CustomerRepository
+com/example/servingwebcontent/config/MvcConfig.java
+ com.example.servingwebcontent.config.MvcConfig
+com/example/servingwebcontent/jpa/repository/UserRepository.java
+ com.example.servingwebcontent.jpa.repository.UserRepository
+com/example/servingwebcontent/controller/CustomerController.java
+ com.example.servingwebcontent.controller.CustomerController
+com/example/servingwebcontent/jpa/model/abac/attribute/type/EntityType.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.EntityType
+com/example/servingwebcontent/jpa/model/abac/attribute/type/AttrResource.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.AttrResource
+com/example/servingwebcontent/jpa/model/abac/engine/pep/PolicyEnforcementPoint.java
+ com.example.servingwebcontent.jpa.model.abac.engine.pep.PolicyEnforcementPoint
+com/example/servingwebcontent/jpa/model/User.java
+ com.example.servingwebcontent.jpa.model.User
+com/example/servingwebcontent/jpa/model/abac/engine/pdp/PolicyDecisionPoint.java
+ com.example.servingwebcontent.jpa.model.abac.engine.pdp.PolicyDecisionPoint
+com/example/servingwebcontent/jpa/model/abac/attribute/type/AttrAction.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.AttrAction
+com/example/servingwebcontent/jpa/model/abac/attribute/type/ActionType.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.ActionType
+com/example/servingwebcontent/jpa/model/Customer.java
+ com.example.servingwebcontent.jpa.model.Customer
+com/example/servingwebcontent/jpa/model/IAttributable.java
+ com.example.servingwebcontent.jpa.model.IAttributable
+com/example/servingwebcontent/jpa/model/abac/attribute/type/SubjectType.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.SubjectType
+com/example/servingwebcontent/jpa/repository/RuleRepository.java
+ com.example.servingwebcontent.jpa.repository.RuleRepository
+com/example/servingwebcontent/jpa/model/abac/attribute/type/AttrSubject.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.AttrSubject
+com/example/servingwebcontent/jpa/model/abac/annotaion/AccessControl.java
+ com.example.servingwebcontent.jpa.model.abac.annotaion.AccessControl
+com/example/servingwebcontent/jpa/model/abac/attribute/Attribute.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.Attribute
+com/example/servingwebcontent/jpa/model/abac/attribute/type/AttrEnvironment.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.type.AttrEnvironment
+com/example/servingwebcontent/jpa/model/abac/Rule.java
+ com.example.servingwebcontent.jpa.model.abac.Rule
+ com.example.servingwebcontent.jpa.model.abac.Rule$Operator
+com/example/servingwebcontent/jpa/model/abac/engine/AccessContext.java
+ com.example.servingwebcontent.jpa.model.abac.engine.AccessContext
+com/example/servingwebcontent/jpa/model/abac/attribute/AttributeType.java
+ com.example.servingwebcontent.jpa.model.abac.attribute.AttributeType
